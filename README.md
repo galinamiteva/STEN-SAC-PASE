@@ -20,3 +20,9 @@ Artikel om bind(): https://www.freecodecamp.org/news/this-is-why-we-need-to-bind
 ## Inspelningar
 
 Förmiddag: https://web.microsoftstream.com/video/243b5e28-9aff-4d2e-929b-e619611d55a6
+
+Eftermiddag: https://web.microsoftstream.com/video/abb4e2a5-fb94-4d4b-86da-3810531e23b5
+
+## Tidigare lektioner
+
+https://github.com/Avancerad-JavaScript-med-React-JS-EC/?q=lektion&type=&language=
