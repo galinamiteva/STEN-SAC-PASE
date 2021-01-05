@@ -9,7 +9,7 @@ function TodoItem(props) {
     }
 
     return (
-        <li className="todo-item">{ props.text } - { todoDone }</li>
+        <li className="todo-item">{ props.text.todo } - { todoDone }</li>
     )
 }
 
