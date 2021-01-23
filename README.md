@@ -2,7 +2,7 @@
 
 ## Övningar
 
-**Sten, sax och påse**
+**STEN SAC PÅSE**
 Börja med att skapa ett projekt med ```npx create-react-app projektnamn```. Skapa sedan ett sten,sax och påse spel.
 
 Shakespeare insult generator: https://gist.github.com/zocom-christoffer-wallenberg/1c28142d9dc9a677d1ec356f84f3b896
